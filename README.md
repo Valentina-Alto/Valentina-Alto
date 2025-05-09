@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Data&AI Azure Specialist at @Microsoft<br>📚 I write about Machine Learning, AI, and other stuff (check my articles here->https://medium.com/@valentinaalto)<br>👩🏻‍💻 Python Lover<br>🌱 Always learning about new Data Science trends and how AI will impact businesses<br>💬 Ask me about Azure cloud, ML algorithms, NLP, and Computer vision, all spiced with Python<br><br> In my spare time, you can find me either climbing 🧗‍♀️ or running 🏃🏼‍♀️ somewhere around the world🌏 
+🔭 AI Technical Architect at @Microsoft<br>📚 I write about Machine Learning, AI, and other stuff (check my articles here->https://medium.com/@valentinaalto)<br>👩🏻‍💻 Python Lover<br>🌱 Always learning about new Data Science trends and how AI will impact businesses<br>💬 Ask me about Azure cloud, ML algorithms, NLP, and Computer vision, all spiced with Python<br><br> In my spare time, you can find me either climbing 🧗‍♀️ or running 🏃🏼‍♀️ somewhere around the world🌏 
 
 
 ## 🌐 Socials:
